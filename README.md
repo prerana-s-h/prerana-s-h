@@ -135,32 +135,21 @@
 
 ## 🚀 Featured Projects
 
-<a href="https://github.com/prerana-s-h/ai-email-generator">
 <p align="center">
-AI-powered tool that generates professional and context-aware emails from user prompts.  
-Uses natural language processing to understand intent and structure meaningful responses.  
-Automates email writing for business and personal communication use cases.  
-Built using Python and AI-based text generation techniques.
-</p>
+<a href="https://github.com/prerana-s-h/ai-email-generator">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=prerana-s-h&repo=ai-email-generator&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/prerana-s-h/Customer_Churn_Prediction">
-<p align="center">
-Machine learning model that predicts customer churn based on historical and behavioral data.  
-Applies classification algorithms to identify customers likely to discontinue a service.  
-Helps businesses improve retention through early risk detection and insights.  
-Built using Python, Pandas, and Scikit-learn.
-</p>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=prerana-s-h&repo=Customer_Churn_Prediction&theme=tokyonight&hide_border=true"/>
 </a>
+</p>
 
-<a href="https://github.com/prerana-s-h/ai-college-faq-chatbot">
 <p align="center">
-RAG-based chatbot designed to answer college-related queries using document retrieval.  
-Provides accurate and context-aware responses by combining AI and search techniques.  
-Improves student support by enabling instant automated query resolution.  
-Built using Generative AI and Retrieval-Augmented Generation (RAG).
-</p>
+<a href="https://github.com/prerana-s-h/ai-college-faq-chatbot">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=prerana-s-h&repo=ai-college-faq-chatbot&theme=tokyonight&hide_border=true"/>
 </a>
+</p>
 
 ---
 
