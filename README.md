@@ -1,4 +1,5 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Prerana%20S%20H&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:00C9FF,100:9200FF"/>
+type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Prerana%20S%20H&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 
 <h1 align="center">Hi 👋, I'm Prerana S H</h1>
 
