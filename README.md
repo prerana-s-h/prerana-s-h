@@ -111,7 +111,7 @@
 
 ---
 
-## 💭 Dev Quote
+## 💭 Data Quote
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=3000&color=00C9FF&center=true&vCenter=true&width=800&lines=Without+data%2C+you're+just+another+person+with+an+opinion."/>
