@@ -24,7 +24,7 @@
 
 ---
 
-## 👩‍💻 About Me
+## 👩‍💻 About Me <img src="https://media.tenor.com/IF2JdxzmyN4AAAAC/coding-girl.gif" width="35"/>
 
 <table>
 <tr>
@@ -49,7 +49,7 @@
 
 <td width="35%">
 
-<img src="https://media.tenor.com/IF2JdxzmyN4AAAAC/coding-girl.gif" width="280"/>
+<img src="https://media.tenor.com/1QxQy3qQ9kUAAAAC/data-analytics.gif" width="280"/>
 
 </td>
 
@@ -58,7 +58,7 @@
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ Tech Stack <img src="https://media.tenor.com/2aSuZq7Q5bIAAAAC/tech.gif" width="35"/>
 
 <h3 align="center">💻 Languages</h3>
 <p align="center">
@@ -93,7 +93,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics <img src="https://media.tenor.com/1Y8QK3Q9Xg0AAAAC/graph-loading.gif" width="35"/>
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prerana-s-h&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -111,7 +111,7 @@
 
 ---
 
-## 💭 Data Quote
+## 💭 Data Quote <img src="https://media.tenor.com/3bTxZ4qZ9pMAAAAC/quote-motivation.gif" width="35"/>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=3000&color=00C9FF&center=true&vCenter=true&width=800&lines=Without+data%2C+you're+just+another+person+with+an+opinion."/>
@@ -119,7 +119,7 @@
 
 ---
 
-## 🤝 Let's Connect & Build Together
+## 🤝 Let's Connect & Build Together <img src="https://media.tenor.com/6f9hY9xQ2YkAAAAC/connect-handshake.gif" width="35"/>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/prerana-s-h-592515249/">
@@ -133,7 +133,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects <img src="https://media.tenor.com/8y0XzQpQw3oAAAAC/project-code.gif" width="35"/>
 
 <p align="center">
 <a href="https://github.com/prerana-s-h/ai-email-generator">
@@ -153,16 +153,8 @@
 
 ---
 
-## 👀 Profile Views 
-
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=prerana-s-h&label=Profile+Views&color=7C3AED&style=for-the-badge"/>
-</p>
-
----
-
-<p align="center">
-✨ Thanks for visiting my profile! ✨
+## ✨ Thanks for visiting my profile <img src="https://media.tenor.com/2c7QzQk0x9sAAAAC/thank-you.gif" width="35"/>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:2563EB,100:7C3AED"/>
