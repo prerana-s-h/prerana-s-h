@@ -1,18 +1,15 @@
-<!-- Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6A11CB,100:2575FC&text=Prerana%20S%20H&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 <h1 align="center">Hi 👋, I'm Prerana S H</h1>
 
 <h3 align="center">
-Data Analyst • Data Science Enthusiast • Machine Learning Learner
+📊 Data Analyst | 🤖 Machine Learning Enthusiast | 🐍 Python Developer
 </h3>
 
-<!-- Typing Animation -->
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Analyst;Python+Developer;Machine+Learning+Enthusiast;Power+BI+Developer;Future+Data+Scientist" />
 </p>
 
-<!-- Social Links -->
 <p align="center">
 <a href="https://www.linkedin.com/in/prerana-s-h-592515249/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -23,11 +20,19 @@ Data Analyst • Data Science Enthusiast • Machine Learning Learner
 </a>
 </p>
 
-<!-- Tech Stack -->
-<h2 align="center">🛠 Tech Stack</h2>
+---
+
+## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,tensorflow,sklearn,pandas,numpy" />
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode,tensorflow,sklearn,anaconda" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </p>
 
 ---
@@ -69,6 +74,7 @@ Created an interactive Power BI dashboard to analyze sales trends, KPIs and busi
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prerana-s-h&show_icons=true&theme=tokyonight&hide_border=true"/>
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prerana-s-h&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
@@ -84,12 +90,6 @@ Created an interactive Power BI dashboard to analyze sales trends, KPIs and busi
 
 ---
 
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=prerana-s-h&theme=tokyonight&no-frame=true&row=1"/>
-
----
-
 ## 👀 Profile Views
 
 <p align="center">
@@ -100,7 +100,7 @@ Created an interactive Power BI dashboard to analyze sales trends, KPIs and busi
 
 ## 📫 Connect With Me
 
-- 🔗 LinkedIn: https://www.linkedin.com/in/prerana-s-h-592515249/
+- 🔗 LinkedIn: www.linkedin.com/in/prerana-s-h-592515249
 - 📧 Email: preranahanabar@gmail.com
 
 ---
@@ -108,4 +108,3 @@ Created an interactive Power BI dashboard to analyze sales trends, KPIs and busi
 <p align="center">
 ✨ Thanks for visiting my profile! ✨
 </p>
-```
