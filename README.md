@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B1026,50:1B2A4A,100:2563EB&text=Prerana%20S%20H&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:667EEA,50:764BA2,100:00C9FF&text=Prerana%20S%20H&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/> 
 
 <h1 align="center">👋 Hi, I'm Prerana S H</h1>
 
@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Data+Analyst;Python+Developer;Machine+Learning+Enthusiast;Power+BI+Developer;Future+Data+Scientist" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Aspiring+Data+Scientist;Python+Developer;Machine+Learning+Enthusiast;Power+BI+Developer;" />
 </p>
 
 <p align="center">
@@ -166,3 +166,4 @@
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:2563EB,100:7C3AED"/>
+ 
