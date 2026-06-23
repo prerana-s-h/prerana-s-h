@@ -135,34 +135,32 @@
 
 ## 🚀 Featured Projects
 
-<p align="center">
 <a href="https://github.com/prerana-s-h/ai-email-generator">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=prerana-s-h&repo=ai-email-generator&theme=tokyonight&hide_border=true"/>
-An AI-powered tool that generates professional and context-aware emails based on user prompts.  
-It uses natural language processing techniques to understand intent and structure email content.  
-The system automates email writing for different business use cases.  
-Built using Python and AI-based text generation methods.
-</a>
+<p align="center">
+AI-powered tool that generates professional and context-aware emails from user prompts.  
+Uses natural language processing to understand intent and structure meaningful responses.  
+Automates email writing for business and personal communication use cases.  
+Built using Python and AI-based text generation techniques.
 </p>
+</a>
 
 <a href="https://github.com/prerana-s-h/Customer_Churn_Prediction">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=prerana-s-h&repo=Customer_Churn_Prediction&theme=tokyonight&hide_border=true"/>
-A machine learning project that predicts whether a customer is likely to leave a service.  
-It analyzes customer behavior and historical data using classification algorithms.  
-The model helps businesses identify at-risk customers and improve retention strategies.  
-Developed using Python, Pandas, and Scikit-learn.
-</a>
-</p>
-
 <p align="center">
-<a href="https://github.com/prerana-s-h/ai-college-faq-chatbot">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=prerana-s-h&repo=ai-college-faq-chatbot&theme=tokyonight&hide_border=true"/>
-A retrieval-augmented generation (RAG) based chatbot that answers college-related queries.  
-It retrieves relevant information from documents and provides accurate responses.  
-The system improves accessibility by offering instant automated support to students.  
-Built using Generative AI and retrieval techniques.
-</a>
+Machine learning model that predicts customer churn based on historical and behavioral data.  
+Applies classification algorithms to identify customers likely to discontinue a service.  
+Helps businesses improve retention through early risk detection and insights.  
+Built using Python, Pandas, and Scikit-learn.
 </p>
+</a>
+
+<a href="https://github.com/prerana-s-h/ai-college-faq-chatbot">
+<p align="center">
+RAG-based chatbot designed to answer college-related queries using document retrieval.  
+Provides accurate and context-aware responses by combining AI and search techniques.  
+Improves student support by enabling instant automated query resolution.  
+Built using Generative AI and Retrieval-Augmented Generation (RAG).
+</p>
+</a>
 
 ---
 
