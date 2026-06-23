@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00CED1&height=200&section=header&text=Prerana%20S%20H&fontSize=45&fontColor=ffffff"/>
 <h1 align="center">Hi 👋, I'm Prerana S H</h1>
 <h3 align="center">Data Scientist | Python | SQL | Power BI | Machine Learning Enthusiast</h3>
 
