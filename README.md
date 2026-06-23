@@ -18,6 +18,9 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prerana-s-h&theme=tokyonight">
 </p>
+
+---
+
 ## 👩‍💻 About Me
 
 - 🎓 B.Tech Graduate in Electronis and Computer Engineering
