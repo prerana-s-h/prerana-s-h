@@ -3,51 +3,48 @@
 <h3 align="center">Data Scientist | Python | SQL | Power BI | Machine Learning Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Data+Analyst;Python+Developer;Machine+Learning+Enthusiast;Power+BI+Developer" />
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,tensorflow,sklearn" />
 </p>
+ 
 <p align="center">
-<a href="https://www.linkedin.com/feed/">
+<a href="https://www.linkedin.com/in/prerana-s-h-592515249/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="mailto:https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">
+<a href="mailto:preranahanabar@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
 </a>
 </p>
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prerana-s-h&theme=tokyonight">
+</p>
 ## 👩‍💻 About Me
 
-- 🎓 B.Tech Graduate
-- 📊 Aspiring Data Scientist
-- 🐍 Python Developer
-- 🤖 Interested in Machine Learning & AI
-- 📈 Power BI Enthusiast
-
----
-
-## 🛠 Skills
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange)
+- 🎓 B.Tech Graduate in Electronis and Computer Engineering
+- 📊 Aspiring Data Analytics and Data Science Enthusiast
+- 🐍 Skilled in Python, SQL, Pandas, NumPy and Power BI
+- 🤖 Passionate about Machine Learning and Artificial Intelligence
+- 🚀 Building real-world Data Science projects
 
 ---
 
 ## 🚀 Projects
 
 ### Customer Churn Prediction
-Machine Learning model for predicting customer churn.
+Built a Machine Learning model to predict customer churn using Python, Pandas, Scikit-learn and data visualization techniques.
 
 ### AI Email Generator
-Automatic email generation using LLM APIs.
+Developed an AI-powered email generation system using LLM APIs to create professional emails automatically.
 
 ### Sales Dashboard
-Interactive dashboard using Power BI.
+Created an interactive Power BI dashboard to analyze sales trends, KPIs and business performance.
 
 ---
+
+## 📫 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/prerana-s-h-592515249
+- Email: preranahanabar@gmail.com
 
 ## 📊 GitHub Stats
 
@@ -64,3 +61,12 @@ Interactive dashboard using Power BI.
 ## 👀 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=prerana-s-h&color=blue)
+
+## 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=prerana-s-h&theme=tokyo-night)
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=prerana-s-h&theme=tokyonight)
+ 
