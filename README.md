@@ -53,3 +53,15 @@ Interactive dashboard using Power BI.
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prerana-s-h&show_icons=true&theme=tokyonight)
+
+## 💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prerana-s-h&layout=compact&theme=tokyonight)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prerana-s-h&theme=tokyonight)
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=prerana-s-h&color=blue)
