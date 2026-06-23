@@ -138,16 +138,29 @@
 <p align="center">
 <a href="https://github.com/prerana-s-h/ai-email-generator">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=prerana-s-h&repo=ai-email-generator&theme=tokyonight&hide_border=true"/>
+An AI-powered tool that generates professional and context-aware emails based on user prompts.  
+It uses natural language processing techniques to understand intent and structure email content.  
+The system automates email writing for different business use cases.  
+Built using Python and AI-based text generation methods.
 </a>
+</p>
 
 <a href="https://github.com/prerana-s-h/Customer_Churn_Prediction">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=prerana-s-h&repo=Customer_Churn_Prediction&theme=tokyonight&hide_border=true"/>
+A machine learning project that predicts whether a customer is likely to leave a service.  
+It analyzes customer behavior and historical data using classification algorithms.  
+The model helps businesses identify at-risk customers and improve retention strategies.  
+Developed using Python, Pandas, and Scikit-learn.
 </a>
 </p>
 
 <p align="center">
 <a href="https://github.com/prerana-s-h/ai-college-faq-chatbot">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=prerana-s-h&repo=ai-college-faq-chatbot&theme=tokyonight&hide_border=true"/>
+A retrieval-augmented generation (RAG) based chatbot that answers college-related queries.  
+It retrieves relevant information from documents and provides accurate responses.  
+The system improves accessibility by offering instant automated support to students.  
+Built using Generative AI and retrieval techniques.
 </a>
 </p>
 
