@@ -24,26 +24,36 @@
 
 ---
 
-## 👩‍💻 About Me <img src="https://media.tenor.com/IF2JdxzmyN4AAAAC/coding-girl.gif" width="35"/>
+## 👩‍💻 About Me
 
 <table>
 <tr>
+<td>
+<h2>👩‍💻 About Me</h2>
+</td>
+<td>
+<img src="https://media.tenor.com/IF2JdxzmyN4AAAAC/coding-girl.gif" width="40"/>
+</td>
+</tr>
+</table>
 
+<table>
+<tr>
 <td width="65%">
 
-🎓 B.Tech Graduate in Electronics & Computer Engineering
+🎓 B.Tech Graduate in Electronics & Computer Engineering  
 
-📊 Passionate about Data Analytics & Data Science
+📊 Passionate about Data Analytics & Data Science  
 
-🐍 Skilled in Python, SQL, Pandas, NumPy & Power BI
+🐍 Skilled in Python, SQL, Pandas, NumPy & Power BI  
 
-🤖 Exploring Machine Learning, Generative AI & RAG
+🤖 Exploring Machine Learning, Generative AI & RAG  
 
-🚀 Building real-world AI and Data Science projects
+🚀 Building real-world AI and Data Science projects  
 
-📚 Continuously learning and improving every day
+📚 Continuously learning and improving every day  
 
-💡 Interested in solving business problems using data
+💡 Interested in solving business problems using data  
 
 </td>
 
@@ -52,13 +62,23 @@
 <img src="https://media.tenor.com/1QxQy3qQ9kUAAAAC/data-analytics.gif" width="280"/>
 
 </td>
-
 </tr>
 </table>
 
 ---
 
-## ⚡ Tech Stack <img src="https://media.tenor.com/2aSuZq7Q5bIAAAAC/tech.gif" width="35"/>
+## ⚡ Tech Stack
+
+<table>
+<tr>
+<td>
+<h2>⚡ Tech Stack</h2>
+</td>
+<td>
+<img src="https://media.tenor.com/2aSuZq7Q5bIAAAAC/tech.gif" width="40"/>
+</td>
+</tr>
+</table>
 
 <h3 align="center">💻 Languages</h3>
 <p align="center">
@@ -66,38 +86,44 @@
 </p>
 
 <h3 align="center">🗄️ Database</h3>
-
 <p align="center">
 <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
 <h3 align="center">📊 Analytics & Visualization</h3>
-
 <p align="center">
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </p>
 
- <h3 align="center">🤖 Machine Learning & AI</h3>
-
+<h3 align="center">🤖 Machine Learning & AI</h3>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
 </p>
 
- <h3 align="center">🛠️ Tools</h3>
-
+<h3 align="center">🛠️ Tools</h3>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics <img src="https://media.tenor.com/1Y8QK3Q9Xg0AAAAC/graph-loading.gif" width="35"/>
+## 📊 GitHub Analytics
+
+<table>
+<tr>
+<td>
+<h2>📊 GitHub Analytics</h2>
+</td>
+<td>
+<img src="https://media.tenor.com/1Y8QK3Q9Xg0AAAAC/graph-loading.gif" width="40"/>
+</td>
+</tr>
+</table>
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prerana-s-h&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prerana-s-h&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
@@ -111,7 +137,18 @@
 
 ---
 
-## 💭 Data Quote <img src="https://media.tenor.com/3bTxZ4qZ9pMAAAAC/quote-motivation.gif" width="35"/>
+## 💭 Data Quote
+
+<table>
+<tr>
+<td>
+<h2>💭 Data Quote</h2>
+</td>
+<td>
+<img src="https://media.tenor.com/3bTxZ4qZ9pMAAAAC/quote-motivation.gif" width="40"/>
+</td>
+</tr>
+</table>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=3000&color=00C9FF&center=true&vCenter=true&width=800&lines=Without+data%2C+you're+just+another+person+with+an+opinion."/>
@@ -119,7 +156,18 @@
 
 ---
 
-## 🤝 Let's Connect & Build Together <img src="https://media.tenor.com/6f9hY9xQ2YkAAAAC/connect-handshake.gif" width="35"/>
+## 🤝 Let's Connect & Build Together
+
+<table>
+<tr>
+<td>
+<h2>🤝 Let's Connect</h2>
+</td>
+<td>
+<img src="https://media.tenor.com/6f9hY9xQ2YkAAAAC/connect-handshake.gif" width="40"/>
+</td>
+</tr>
+</table>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/prerana-s-h-592515249/">
@@ -133,7 +181,18 @@
 
 ---
 
-## 🚀 Featured Projects <img src="https://media.tenor.com/8y0XzQpQw3oAAAAC/project-code.gif" width="35"/>
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td>
+<h2>🚀 Featured Projects</h2>
+</td>
+<td>
+<img src="https://media.tenor.com/8y0XzQpQw3oAAAAC/project-code.gif" width="40"/>
+</td>
+</tr>
+</table>
 
 <p align="center">
 <a href="https://github.com/prerana-s-h/ai-email-generator">
@@ -153,9 +212,17 @@
 
 ---
 
-<p align="center">
-## ✨ Thanks for visiting my profile <img src="https://media.tenor.com/2c7QzQk0x9sAAAAC/thank-you.gif" width="35"/>
-</p>
+## ✨ Thanks for visiting my profile
+
+<table>
+<tr>
+<td>
+<h2>✨ Thanks</h2>
+</td>
+<td>
+<img src="https://media.tenor.com/2c7QzQk0x9sAAAAC/thank-you.gif" width="40"/>
+</td>
+</tr>
+</table>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:2563EB,100:7C3AED"/>
- 
