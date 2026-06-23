@@ -49,7 +49,7 @@
 
 <td width="35%">
 
-<img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="280"/>
+<img src="https://media.tenor.com/IF2JdxzmyN4AAAAC/coding-girl.gif" width="280"/>
 
 </td>
 
@@ -60,19 +60,18 @@
 
 <h2 align="center">⚡ Tech Stack</h2>
 
-### 💻 Languages
-
+<h3 align="center">💻 Languages</h3>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-### 🗄️ Database
+<h3 align="center">🗄️ Database</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
-### 📊 Analytics & Visualization
+<h3 align="center">📊 Analytics & Visualization</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
@@ -80,13 +79,13 @@
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </p>
 
-### 🤖 Machine Learning & AI
+ <h3 align="center">🤖 Machine Learning & AI</h3>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
 </p>
 
-### 🛠️ Tools
+ <h3 align="center">🛠️ Tools</h3>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda" />
