@@ -29,7 +29,9 @@
 <table>
 <tr>
 <td>
-<h2>👩‍💻 About Me</h2>
+<span style="font-size:24px; font-weight:700;">
+👩‍💻 About Me
+</span>
 </td>
 <td>
 <img src="https://media.tenor.com/IF2JdxzmyN4AAAAC/coding-girl.gif" width="40"/>
@@ -72,7 +74,9 @@
 <table>
 <tr>
 <td>
-<h2>⚡ Tech Stack</h2>
+<span style="font-size:24px; font-weight:700;">
+⚡ Tech Stack
+</span>
 </td>
 <td>
 <img src="https://media.tenor.com/2aSuZq7Q5bIAAAAC/tech.gif" width="40"/>
@@ -114,7 +118,9 @@
 <table>
 <tr>
 <td>
-<h2>📊 GitHub Analytics</h2>
+<span style="font-size:24px; font-weight:700;">
+📊 GitHub Analytics
+</span>
 </td>
 <td>
 <img src="https://media.tenor.com/1Y8QK3Q9Xg0AAAAC/graph-loading.gif" width="40"/>
@@ -142,7 +148,9 @@
 <table>
 <tr>
 <td>
-<h2>💭 Data Quote</h2>
+<span style="font-size:24px; font-weight:700;">
+💭 Data Quote
+</span>
 </td>
 <td>
 <img src="https://media.tenor.com/3bTxZ4qZ9pMAAAAC/quote-motivation.gif" width="40"/>
@@ -161,7 +169,9 @@
 <table>
 <tr>
 <td>
-<h2>🤝 Let's Connect</h2>
+<span style="font-size:24px; font-weight:700;">
+🤝 Let's Connect & Build Together
+</span>
 </td>
 <td>
 <img src="https://media.tenor.com/6f9hY9xQ2YkAAAAC/connect-handshake.gif" width="40"/>
@@ -171,11 +181,11 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/prerana-s-h-592515249/">
-<img src="https://img.shields.io/badge/LinkedIn-CONNECT-blue?style=for-the-badge"/>
+<img src="img.shields.io/badge/LinkedIn-CONNECT-blue?style=for-the-badge"/>
 </a>
 
 <a href="mailto:preranahanabar@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-SEND_MAIL-red?style=for-the-badge"/>
+<img src="img.shields.io/badge/Gmail-SEND_MAIL-red?style=for-the-badge"/>
 </a>
 </p>
 
@@ -186,7 +196,9 @@
 <table>
 <tr>
 <td>
-<h2>🚀 Featured Projects</h2>
+<span style="font-size:24px; font-weight:700;">
+🚀 Featured Projects
+</span>
 </td>
 <td>
 <img src="https://media.tenor.com/8y0XzQpQw3oAAAAC/project-code.gif" width="40"/>
@@ -217,7 +229,9 @@
 <table>
 <tr>
 <td>
-<h2>✨ Thanks</h2>
+<span style="font-size:24px; font-weight:700;">
+✨ Thanks for visiting my profile
+</span>
 </td>
 <td>
 <img src="https://media.tenor.com/2c7QzQk0x9sAAAAC/thank-you.gif" width="40"/>
