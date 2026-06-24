@@ -22,7 +22,9 @@
 <img src="https://komarev.com/ghpvc/?username=prerana-s-h&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge"/>
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
 
 <h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" width="35px" style="vertical-align: middle;"> About Me</h2>
 
@@ -56,7 +58,9 @@
 </tr>
 </table>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
 
 <h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" width="35px" style="vertical-align: middle;"> Tech Stack</h2>
 
@@ -91,7 +95,9 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda" />
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
 
 <h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.gif" width="30px" style="vertical-align: middle;"> GitHub Analytics</h2>
 
@@ -103,7 +109,9 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=prerana-s-h&theme=tokyo-night&hide_border=true"/>
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
 
 <h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4da/512.gif" width="30px" style="vertical-align: middle;"> Data Quote</h2>
 
@@ -111,7 +119,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=3000&color=00C9FF&center=true&vCenter=true&width=800&lines=Without+data%2C+you're+just+another+person+with+an+opinion."/>
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
 
 <h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" width="30px" style="vertical-align: middle;"> Let's Connect & Build Together</h2>
 
@@ -125,7 +135,9 @@
 </a>
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
 
 <h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="30px" style="vertical-align: middle;"> Featured Projects</h2>
 
@@ -145,7 +157,9 @@
 </a>
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
 
 <p align="center">
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" width="35px"><br>
