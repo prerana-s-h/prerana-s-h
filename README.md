@@ -2,15 +2,12 @@
 
 <h1 align="center">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="40px" style="vertical-align: middle;"> 
-  Welcome to my GitHub Profile! 
+  Welcome to my GitHub Profile!  
 </h1>
 
-<h3 align="center">
-📊 Data Scientist • 🤖 AI Enthusiast • 🐍 Python Developer
-</h3>
-
+<!-- Animated Typing Section displaying titles with matching icons -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Aspiring+Data+Scientist;Python+Developer;Machine+Learning+Enthusiast;Power+BI+Developer;" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=%F0%9F%93%8A+Aspiring+Data+Scientist;%F0%9F%90%8D+Python+Developer;%F0%9F%A4%96+Machine+Learning+Enthusiast;%F0%9F%93%A0+Power+BI+Developer;" />
 </p>
 
 <p align="center">
