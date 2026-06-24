@@ -1,10 +1,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:667EEA,50:764BA2,100:00C9FF&text=Prerana%20S%20H&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/> 
 
-<h1 align="center">👋 Welcome to my GitHub Profile! </h1>
+<h1 align="center">
+  <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Hand%20gestures/Waving%20Hand.gif" width="40px" style="vertical-align: middle;"> 
+  Welcome to my GitHub Profile! 
+  <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Hand%20gestures/Waving%20Hand.gif" width="40px" style="vertical-align: middle;">
+</h1>
 
-<!-- Centered Typing Effect with Rocket above it -->
+<!-- Centered Typing Effect with 3D Rocket Gif above it -->
 <p align="center">
-  🚀<br>
+  <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Travel%20and%20places/Rocket.gif" width="50px"><br>
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Aspiring+Data+Scientist;Python+Developer;Machine+Learning+Enthusiast;Power+BI+Developer;" />
 </p>
 
@@ -22,7 +26,7 @@
 
 ---
 
-## 👩‍💻 About Me
+<h2><img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/People%20with%20professions/Technologist/Female/Light/Female%20Technologist%20Light%20Skin%20Tone.gif" width="35px" style="vertical-align: middle;"> About Me</h2>
 
 <table>
 <tr>
@@ -56,38 +60,42 @@
 
 ---
 
-## 💻 Tech Stack
+<h2><img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Objects/Laptop.gif" width="35px" style="vertical-align: middle;"> Tech Stack</h2>
 
-### ✍️ Languages
+<h3 align="center"><img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Hand%20gestures/Writing%20Hand.gif" width="28px" style="vertical-align: middle;"> Languages</h3>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-### 🗄️ Database
+<h3 align="center"><img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Objects/Card%20Index%20Dividers.gif" width="28px" style="vertical-align: middle;"> Database</h3>
+
 <p align="center">
 <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
-### 📊 Analytics & Visualization
+<h3 align="center"><img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Objects/Bar%20Chart.gif" width="28px" style="vertical-align: middle;"> Analytics & Visualization</h3>
+
 <p align="center">
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </p>
 
-### 🤖 Machine Learning & AI
+<h3 align="center"><img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Smilies/Robot.gif" width="28px" style="vertical-align: middle;"> Machine Learning & AI</h3>
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
 </p>
 
-### 🛠️ Tools
+<h3 align="center"><img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Objects/Hammer%20and%20Wrench.gif" width="28px" style="vertical-align: middle;"> Tools</h3>
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda" />
 </p>
 
 ---
 
-## 📈 GitHub Analytics
+<h2><img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Objects/Chart%20Increasing%20with%20Yen.gif" width="35px" style="vertical-align: middle;"> GitHub Analytics</h2>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=prerana-s-h&theme=tokyonight&hide_border=true"/>
@@ -99,7 +107,7 @@
 
 ---
 
-## 📝 Data Quote
+<h2><img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Objects/Memo.gif" width="35px" style="vertical-align: middle;"> Data Quote</h2>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=3000&color=00C9FF&center=true&vCenter=true&width=800&lines=Without+data%2C+you're+just+another+person+with+an+opinion."/>
@@ -107,7 +115,7 @@
 
 ---
 
-## 🤝 Let's Connect & Build Together
+<h2><img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Hand%20gestures/Handshake.gif" width="35px" style="vertical-align: middle;"> Let's Connect & Build Together</h2>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/prerana-s-h-592515249/">
@@ -121,7 +129,7 @@
 
 ---
 
-## 🚀 Featured Projects
+<h2><img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Travel%20and%20places/Rocket.gif" width="35px" style="vertical-align: middle;"> Featured Projects</h2>
 
 <p align="center">
 <a href="https://github.com/prerana-s-h/ai-email-generator">
@@ -142,7 +150,7 @@
 ---
 
 <p align="center">
-✨<br>
+<img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Activities/Sparkles.gif" width="40px"><br>
 <b>Thanks for visiting my profile!</b>
 </p>
 
