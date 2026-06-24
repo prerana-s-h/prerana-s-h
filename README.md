@@ -1,13 +1,12 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:667EEA,50:764BA2,100:00C9FF&text=Prerana%20S%20H&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/> 
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/res/handshake.gif" width="40px" style="vertical-align: middle;"> 
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="40px" style="vertical-align: middle;"> 
   Welcome to my GitHub Profile!
 </h1>
 
-<!-- Professional Central Typing Effect Section -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/res/programming.gif" width="45px"><br>
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/main/Icons/Desktop.gif" width="65px"><br>
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Aspiring+Data+Scientist;Python+Developer;Machine+Learning+Enthusiast;Power+BI+Developer;" />
 </p>
 
@@ -25,7 +24,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/res/programming.gif" width="30px" style="vertical-align: middle;"> About Me
+## <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/main/Icons/User.gif" width="35px" style="vertical-align: middle;"> About Me
 
 <table>
 <tr>
@@ -59,7 +58,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/res/engine.gif" width="30px" style="vertical-align: middle;"> Tech Stack
+## <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/main/Icons/Settings.gif" width="35px" style="vertical-align: middle;"> Tech Stack
 
 ### 💻 Languages
 <p align="center">
@@ -90,7 +89,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/res/analytics.gif" width="30px" style="vertical-align: middle;"> GitHub Analytics
+## <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/main/Icons/Graph.gif" width="35px" style="vertical-align: middle;"> GitHub Analytics
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=prerana-s-h&theme=tokyonight&hide_border=true"/>
@@ -102,7 +101,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/res/learning.gif" width="30px" style="vertical-align: middle;"> Data Quote
+## <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/main/Icons/Book.gif" width="35px" style="vertical-align: middle;"> Data Quote</h2>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=3000&color=00C9FF&center=true&vCenter=true&width=800&lines=Without+data%2C+you're+just+another+person+with+an+opinion."/>
@@ -110,7 +109,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/res/network.gif" width="30px" style="vertical-align: middle;"> Let's Connect & Build Together
+## <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/main/Icons/Handshake.gif" width="35px" style="vertical-align: middle;"> Let's Connect & Build Together</h2>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/prerana-s-h-592515249/">
@@ -124,7 +123,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/res/build.gif" width="30px" style="vertical-align: middle;"> Featured Projects</h2>
+## <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/main/Icons/Gears.gif" width="35px" style="vertical-align: middle;"> Featured Projects</h2>
 
 <p align="center">
 <a href="https://github.com/prerana-s-h/ai-email-generator">
@@ -145,7 +144,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/res/handshake.gif" width="35px"><br>
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" width="35px"><br>
   <b>Thanks for visiting my profile!</b>
 </p>
 
