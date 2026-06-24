@@ -24,7 +24,7 @@
 
 ---
 
-## 👩‍💻 About Me
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmszdnN6N2Q0bWx5b3p6bW96b3p6bW96b3p6bW96b3p6bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L8n6f1f4r3gX9m3b9k/giphy.gif" width="32px" style="vertical-align: middle;"> About Me
 
 <table>
 <tr>
@@ -58,7 +58,7 @@
 
 ---
 
-## ⚡ Tech Stack
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmszdnN6N2Q0bWx5b3p6bW96b3p6bW96b3p6bW96b3p6bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3oKIPnAiaMCws8nOsE/giphy.gif" width="30px" style="vertical-align: middle;"> Tech Stack
 
 <h3 align="center">💻 Languages</h3>
 <p align="center">
@@ -93,7 +93,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmszdnN6N2Q0bWx5b3p6bW96b3p6bW96b3p6bW96b3p6bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/X78rWLUfLs6A79MzQu/giphy.gif" width="30px" style="vertical-align: middle;"> GitHub Analytics
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=prerana-s-h&theme=tokyonight&hide_border=true"/>
@@ -105,7 +105,7 @@
 
 ---
 
-## 💭 Data Quote
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmszdnN6N2Q0bWx5b3p6bW96b3p6bW96b3p6bW96b3p6bW96b3p6bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/26hxX79HAFw2NBE5O/giphy.gif" width="30px" style="vertical-align: middle;"> Data Quote
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=3000&color=00C9FF&center=true&vCenter=true&width=800&lines=Without+data%2C+you're+just+another+person+with+an+opinion."/>
@@ -113,7 +113,7 @@
 
 ---
 
-## 🤝 Let's Connect & Build Together
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmszdnN6N2Q0bWx5b3p6bW96b3p6bW96b3p6bW96b3p6bW96b3p6bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7TKoWXm3okO1kgHC/giphy.gif" width="32px" style="vertical-align: middle;"> Let's Connect & Build Together
 
 <p align="center">
 <a href="https://www.linkedin.com/in/prerana-s-h-592515249/">
@@ -127,7 +127,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmszdnN6N2Q0bWx5b3p6bW96b3p6bW96b3p6bW96b3p6bW96b3p6bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/26u4lOM65gZsYJUqc/giphy.gif" width="30px" style="vertical-align: middle;"> Featured Projects
 
 <p align="center">
 <a href="https://github.com/prerana-s-h/ai-email-generator">
@@ -148,7 +148,8 @@
 ---
 
 <p align="center">
-✨ Thanks for visiting my profile! ✨
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmszdnN6N2Q0bWx5b3p6bW96b3p6bW96b3p6bW96b3p6bW96b3p6bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5K4vV90IqO4Q6a0YCH/giphy.gif" width="40px" style="vertical-align: middle;"><br>
+<b>Thanks for visiting my profile!</b>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:2563EB,100:7C3AED"/>
