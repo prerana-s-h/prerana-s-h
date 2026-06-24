@@ -1,13 +1,16 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:667EEA,50:764BA2,100:00C9FF&text=Prerana%20S%20H&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/> 
 
-<h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/main/Emojis/Hand%20gestures/Waving%20Hand.png" width="40px" style="vertical-align: middle;"> Hi, I'm Prerana S H</h1>
+<h1 align="center">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="40px" style="vertical-align: middle;"> 
+  Welcome to my GitHub Profile! 
+</h1>
 
 <h3 align="center">
 📊 Data Scientist • 🤖 AI Enthusiast • 🐍 Python Developer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Aspiring+Data+Scientist;Python+Developer;Machine+Learning+Enthusiast;Power+BI+Developer;" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Aspiring+Data+Scientist;Python+Developer;Machine+Learning+Enthusiast;Power+BI+Developer;" />
 </p>
 
 <p align="center">
@@ -24,7 +27,7 @@
 
 ---
 
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/main/Emojis/People%20with%20professions/Technologist/Female/Light/Female%20Technologist%20Light%20Skin%20Tone.png" width="35px" style="vertical-align: middle;"> About Me</h2>
+<h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" width="35px" style="vertical-align: middle;"> About Me</h2>
 
 <table>
 <tr>
@@ -58,7 +61,7 @@
 
 ---
 
-<h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" width="30px" style="vertical-align: middle;"> Tech Stack</h2>
+<h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" width="35px" style="vertical-align: middle;"> Tech Stack</h2>
 
 <h3 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ac/512.gif" width="24px" style="vertical-align: middle;"> Languages</h3>
 <p align="center">
