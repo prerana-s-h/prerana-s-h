@@ -25,7 +25,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXN6cmhvM2Njd3h6bnhvMWh5dW85ZTh1M3Fqd2Z3dndmYW83bnd3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/S9N2093U0O0yL0gMCH/giphy.gif" width="35px" style="vertical-align: middle;"> About Me
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXN6cmhvM2Njd3h6bnhvMWh5dW85ZTh1M3Fqd2Z3dndmYW83bnd3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/S9N2093U0O0yL0gMCH/giphy.gif" width="35px" style="vertical-align: middle;"> About Me
 
 <table>
 <tr>
@@ -59,7 +59,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnJidWZ2YmgyOHFvdzN0NWV3cmY4M2I4cjcyZndicDJwZnV3MzBmaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eceM7D08IatYw7gW4r/giphy.gif" width="35px" style="vertical-align: middle;"> Tech Stack
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnJidWZ2YmgyOHFvdzN0NWV3cmY4M2I4cjcyZndicDJwZnV3MzBmaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eceM7D08IatYw7gW4r/giphy.gif" width="35px" style="vertical-align: middle;"> Tech Stack
 
 ### 💻 Languages
 <p align="center">
@@ -90,7 +90,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHIzdXF2NHRkNzlyZ3Yyb25wZmxkOHo3MmNoamk0NXl0cjVvMXN3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dB64p7P8vVCH7U82S9/giphy.gif" width="35px" style="vertical-align: middle;"> GitHub Analytics
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHIzdXF2NHRkNzlyZ3Yyb25wZmxkOHo3MmNoamk0NXl0cjVvMXN3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dB64p7P8vVCH7U82S9/giphy.gif" width="35px" style="vertical-align: middle;"> GitHub Analytics
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=prerana-s-h&theme=tokyonight&hide_border=true"/>
@@ -102,7 +102,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNndrNHU2aHBieDdwZnM1cmF4dGF3ajFlNzA5OTNmdDlsamZndXNxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L396K6D6Pj6wI1Y7V6/giphy.gif" width="35px" style="vertical-align: middle;"> Data Quote</h2>
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNndrNHU2aHBieDdwZnM1cmF4dGF3ajFlNzA5OTNmdDlsamZndXNxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L396K6D6Pj6wI1Y7V6/giphy.gif" width="35px" style="vertical-align: middle;"> Data Quote</h2>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=3000&color=00C9FF&center=true&vCenter=true&width=800&lines=Without+data%2C+you're+just+another+person+with+an+opinion."/>
@@ -110,7 +110,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHhndzh5MGo4MXFlNXo2OXgxdmlubzFhcHNvMG5jdTB1bms1cDRwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WS9XGoRF9gZbyGep6U/giphy.gif" width="35px" style="vertical-align: middle;"> Let's Connect & Build Together</h2>
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHhndzh5MGo4MXFlNXo2OXgxdmlubzFhcHNvMG5jdTB1bms1cDRwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WS9XGoRF9gZbyGep6U/giphy.gif" width="35px" style="vertical-align: middle;"> Let's Connect & Build Together</h2>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/prerana-s-h-592515249/">
@@ -124,7 +124,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N2c20waG5zM2l2eGhtMnBkaXo4NDFpZXZhcjQ0NXYwN285NzA3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lo965Yy9X999zJst4B/giphy.gif" width="35px" style="vertical-align: middle;"> Featured Projects</h2>
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N2c20waG5zM2l2eGhtMnBkaXo4NDFpZXZhcjQ0NXYwN285NzA3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lo965Yy9X999zJst4B/giphy.gif" width="35px" style="vertical-align: middle;"> Featured Projects</h2>
 
 <p align="center">
 <a href="https://github.com/prerana-s-h/ai-email-generator">
