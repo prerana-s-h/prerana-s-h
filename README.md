@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%" height="8px">
 </p>
 
 <h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" width="35px" style="vertical-align: middle;"> About Me</h2>
@@ -59,7 +59,7 @@
 </table>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%" height="8px">
 </p>
 
 <h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" width="35px" style="vertical-align: middle;"> Tech Stack</h2>
@@ -96,7 +96,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%" height="8px">
 </p>
 
 <h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.gif" width="30px" style="vertical-align: middle;"> GitHub Analytics</h2>
@@ -110,7 +110,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%" height="8px">
 </p>
 
 <h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4da/512.gif" width="30px" style="vertical-align: middle;"> Data Quote</h2>
@@ -120,7 +120,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%" height="8px">
 </p>
 
 <h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" width="30px" style="vertical-align: middle;"> Let's Connect & Build Together</h2>
@@ -136,7 +136,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%" height="8px">
 </p>
 
 <h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="30px" style="vertical-align: middle;"> Featured Projects</h2>
@@ -158,7 +158,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%" height="8px">
 </p>
 
 <p align="center">
