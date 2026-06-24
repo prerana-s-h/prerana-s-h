@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="40px" style="vertical-align: middle;"> 
-  Welcome to my GitHub Profile!  
+  Welcome to My GitHub Profile!  
 </h1>
 
 <!-- Animated Typing Section displaying titles with matching icons -->
