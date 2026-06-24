@@ -1,13 +1,12 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:667EEA,50:764BA2,100:00C9FF&text=Prerana%20S%20H&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/> 
 
 <h1 align="center">
-  <img src="https://github.com/marwin1991/profile-technology-icons/assets/13681531/31f8f97a-9cb8-4fa3-bc42-998da69cb452" width="40px" style="vertical-align: middle;"> 
-  Welcome to my GitHub Profile! 
-  <img src="https://github.com/marwin1991/profile-technology-icons/assets/13681531/31f8f97a-9cb8-4fa3-bc42-998da69cb452" width="40px" style="vertical-align: middle;">
+  <img src="https://github.com/user-attachments/assets/b29d4722-e221-4b13-9076-2f0ef0306ea7" width="35px" style="vertical-align: middle;"> 
+  Welcome to my GitHub Profile!
 </h1>
 
 <p align="center">
-  <img src="https://github.com/marwin1991/profile-technology-icons/assets/13681531/5ee1a3b1-f674-4b44-996a-0be9cdfc9019" width="50px"><br>
+  <img src="https://github.com/user-attachments/assets/bbfb9f84-90a6-42d7-b8db-4e17f30efdfd" width="45px"><br>
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Aspiring+Data+Scientist;Python+Developer;Machine+Learning+Enthusiast;Power+BI+Developer;" />
 </p>
 
@@ -25,7 +24,7 @@
 
 ---
 
-<h2><img src="https://github.com/marwin1991/profile-technology-icons/assets/13681531/1301844b-46cb-4029-b636-bf75c7e18fb0" width="35px" style="vertical-align: middle;"> About Me</h2>
+<h2><img src="https://github.com/user-attachments/assets/958d5386-db3f-42b7-8730-8be059c38fbf" width="32px" style="vertical-align: middle;"> About Me</h2>
 
 <table>
 <tr>
@@ -59,20 +58,20 @@
 
 ---
 
-<h2><img src="https://github.com/marwin1991/profile-technology-icons/assets/13681531/5cf3e839-a864-47ee-997f-05632a76f236" width="35px" style="vertical-align: middle;"> Tech Stack</h2>
+<h2><img src="https://github.com/user-attachments/assets/bbfb9f84-90a6-42d7-b8db-4e17f30efdfd" width="32px" style="vertical-align: middle;"> Tech Stack</h2>
 
-<h3 align="center"><img src="https://github.com/marwin1991/profile-technology-icons/assets/13681531/67634d0b-684a-434a-9f5b-be7c43dfae98" width="28px" style="vertical-align: middle;"> Languages</h3>
+<h3 align="center"><img src="https://github.com/user-attachments/assets/d193fae9-ee1f-48e0-ab0a-3c795b8dcdbe" width="24px" style="vertical-align: middle;"> Languages</h3>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-<h3 align="center"><img src="https://github.com/marwin1991/profile-technology-icons/assets/13681531/b0254332-9017-48f6-be11-827d04bcfe3c" width="28px" style="vertical-align: middle;"> Database</h3>
+<h3 align="center"><img src="https://github.com/user-attachments/assets/19eef68f-bfce-4c1d-8557-08053a2ef867" width="24px" style="vertical-align: middle;"> Database</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
-<h3 align="center"><img src="https://github.com/marwin1991/profile-technology-icons/assets/13681531/5799981f-4b05-4cd9-bf0c-d38df81c85d8" width="28px" style="vertical-align: middle;"> Analytics & Visualization</h3>
+<h3 align="center"><img src="https://github.com/user-attachments/assets/74b45cc0-4f52-47fb-867c-9ef1585ed36e" width="24px" style="vertical-align: middle;"> Analytics & Visualization</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
@@ -80,13 +79,13 @@
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </p>
 
-<h3 align="center"><img src="https://github.com/marwin1991/profile-technology-icons/assets/13681531/0aa27e71-8bc6-4648-936c-9418a002eb7f" width="28px" style="vertical-align: middle;"> Machine Learning & AI</h3>
+<h3 align="center"><img src="https://github.com/user-attachments/assets/0b991f8c-f0df-4d64-8843-85fbf8001e38" width="24px" style="vertical-align: middle;"> Machine Learning & AI</h3>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
 </p>
 
-<h3 align="center"><img src="https://github.com/marwin1991/profile-technology-icons/assets/13681531/6f7fa565-38b4-4e44-b049-598ff7b63fcc" width="28px" style="vertical-align: middle;"> Tools</h3>
+<h3 align="center"><img src="https://github.com/user-attachments/assets/26622b31-3162-431a-ab5a-534d7010467a" width="24px" style="vertical-align: middle;"> Tools</h3>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda" />
@@ -94,7 +93,7 @@
 
 ---
 
-<h2><img src="https://github.com/marwin1991/profile-technology-icons/assets/13681531/bfcb929d-47be-449e-b9b5-6804be85139c" width="35px" style="vertical-align: middle;"> GitHub Analytics</h2>
+<h2><img src="https://github.com/user-attachments/assets/74b45cc0-4f52-47fb-867c-9ef1585ed36e" width="32px" style="vertical-align: middle;"> GitHub Analytics</h2>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=prerana-s-h&theme=tokyonight&hide_border=true"/>
@@ -106,7 +105,7 @@
 
 ---
 
-<h2><img src="https://github.com/marwin1991/profile-technology-icons/assets/13681531/efb26508-3015-4ba3-ab69-f1fb5c56a8fb" width="35px" style="vertical-align: middle;"> Data Quote</h2>
+<h2><img src="https://github.com/user-attachments/assets/38fb4340-06cf-448a-b855-f7cdbb83ad36" width="32px" style="vertical-align: middle;"> Data Quote</h2>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=3000&color=00C9FF&center=true&vCenter=true&width=800&lines=Without+data%2C+you're+just+another+person+with+an+opinion."/>
@@ -114,7 +113,7 @@
 
 ---
 
-<h2><img src="https://github.com/marwin1991/profile-technology-icons/assets/13681531/29bcfe17-a9a3-48b4-9da6-f64128f73fbf" width="35px" style="vertical-align: middle;"> Let's Connect & Build Together</h2>
+<h2><img src="https://github.com/user-attachments/assets/e1dfd71c-43f0-459f-864f-4ee6bb64be87" width="32px" style="vertical-align: middle;"> Let's Connect & Build Together</h2>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/prerana-s-h-592515249/">
@@ -128,7 +127,7 @@
 
 ---
 
-<h2><img src="https://github.com/marwin1991/profile-technology-icons/assets/13681531/5ee1a3b1-f674-4b44-996a-0be9cdfc9019" width="35px" style="vertical-align: middle;"> Featured Projects</h2>
+<h2><img src="https://github.com/user-attachments/assets/f1b8275c-7d9a-41e9-923f-561b36bc6474" width="32px" style="vertical-align: middle;"> Featured Projects</h2>
 
 <p align="center">
 <a href="https://github.com/prerana-s-h/ai-email-generator">
@@ -149,8 +148,8 @@
 ---
 
 <p align="center">
-<img src="https://github.com/marwin1991/profile-technology-icons/assets/13681531/992451f0-40db-46f9-b883-93d396263595" width="40px"><br>
-<b>Thanks for visiting my profile!</b>
+  <img src="https://github.com/user-attachments/assets/b29d4722-e221-4b13-9076-2f0ef0306ea7" width="35px"><br>
+  <b>Thanks for visiting my profile!</b>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:2563EB,100:7C3AED"/>
