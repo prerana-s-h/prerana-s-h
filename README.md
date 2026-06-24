@@ -1,13 +1,13 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:667EEA,50:764BA2,100:00C9FF&text=Prerana%20S%20H&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/> 
 
-<h1 align="center">👋 Hi, I'm Prerana S H</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/main/Emojis/Hand%20gestures/Waving%20Hand.png" width="40px" style="vertical-align: middle;"> Hi, I'm Prerana S H</h1>
 
 <h3 align="center">
 📊 Data Scientist • 🤖 AI Enthusiast • 🐍 Python Developer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Aspiring+Data+Scientist;Python+Developer;Machine+Learning+Enthusiast;Power+BI+Developer;" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=%F0%9F%93%8A+Aspiring+Data+Scientist;%F0%9F%90%8D+Python+Developer;%F0%9F%A4%96+Machine+Learning+Enthusiast;%F0%9F%92%BC+Power+BI+Developer;" />
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 ---
 
-<h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" width="30px" style="vertical-align: middle;"> About Me</h2>
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/main/Emojis/People%20with%20professions/Technologist/Female/Light/Female%20Technologist%20Light%20Skin%20Tone.png" width="35px" style="vertical-align: middle;"> About Me</h2>
 
 <table>
 <tr>
@@ -58,20 +58,20 @@
 
 ---
 
-<h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" width="30px" style="vertical-align: middle;"> Tech Stack</h2>
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/main/Emojis/Objects/Laptop.png" width="35px" style="vertical-align: middle;"> Tech Stack</h2>
 
-<h3 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ac/512.gif" width="24px" style="vertical-align: middle;"> Languages</h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/main/Emojis/Hand%20gestures/Writing%20Hand.png" width="28px" style="vertical-align: middle;"> Languages</h3>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-<h3 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f5c4_fe0f/512.gif" width="24px" style="vertical-align: middle;"> Database</h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/main/Emojis/Objects/Card%20Index%20Dividers.png" width="28px" style="vertical-align: middle;"> Database</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
-<h3 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4c8/512.gif" width="24px" style="vertical-align: middle;"> Analytics & Visualization</h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/main/Emojis/Objects/Bar%20Chart.png" width="28px" style="vertical-align: middle;"> Analytics & Visualization</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
@@ -79,13 +79,13 @@
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </p>
 
-<h3 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9e0/512.gif" width="24px" style="vertical-align: middle;"> Machine Learning & AI</h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/main/Emojis/Smilies/Robot.png" width="28px" style="vertical-align: middle;"> Machine Learning & AI</h3>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
 </p>
 
-<h3 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0_fe0f/512.gif" width="24px" style="vertical-align: middle;"> Tools</h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/main/Emojis/Objects/Hammer%20and%20Wrench.png" width="28px" style="vertical-align: middle;"> Tools</h3>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda" />
@@ -93,7 +93,7 @@
 
 ---
 
-<h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.gif" width="30px" style="vertical-align: middle;"> GitHub Analytics</h2>
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/main/Emojis/Objects/Chart%20Increasing%20with%20Yen.png" width="35px" style="vertical-align: middle;"> GitHub Analytics</h2>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=prerana-s-h&theme=tokyonight&hide_border=true"/>
@@ -105,7 +105,7 @@
 
 ---
 
-<h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4da/512.gif" width="30px" style="vertical-align: middle;"> Data Quote</h2>
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/main/Emojis/Objects/Memo.png" width="35px" style="vertical-align: middle;"> Data Quote</h2>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=3000&color=00C9FF&center=true&vCenter=true&width=800&lines=Without+data%2C+you're+just+another+person+with+an+opinion."/>
@@ -113,7 +113,7 @@
 
 ---
 
-<h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" width="30px" style="vertical-align: middle;"> Let's Connect & Build Together</h2>
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/main/Emojis/Hand%20gestures/Handshake.png" width="35px" style="vertical-align: middle;"> Let's Connect & Build Together</h2>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/prerana-s-h-592515249/">
@@ -127,7 +127,7 @@
 
 ---
 
-<h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="30px" style="vertical-align: middle;"> Featured Projects</h2>
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/main/Emojis/Travel%20and%20places/Rocket.png" width="35px" style="vertical-align: middle;"> Featured Projects</h2>
 
 <p align="center">
 <a href="https://github.com/prerana-s-h/ai-email-generator">
@@ -148,7 +148,7 @@
 ---
 
 <p align="center">
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" width="35px"><br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/main/Emojis/Activities/Sparkles.png" width="40px"><br>
 <b>Thanks for visiting my profile!</b>
 </p>
 
