@@ -119,16 +119,11 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prerana-s-h&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=prerana-s-h&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=prerana-s-h&theme=tokyo-night&hide_border=true"/>
-</p>
-
-<h3 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" width="24px" style="vertical-align: middle;"> GitHub Trophies</h3>
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=prerana-s-h&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 <p align="center">
