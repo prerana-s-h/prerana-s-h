@@ -25,16 +25,13 @@
 <img src="https://komarev.com/ghpvc/?username=prerana-s-h&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge"/>
 </p>
 
-@@ -30,7 +30,6 @@
-
 <table>
 <tr>
 
 <td width="65%">
 
 🎓 B.Tech Graduate in Electronics & Computer Engineering
-@@ -43,18 +42,31 @@
-
+ 
 🚀 Building real-world AI and Data Science projects
 
 📈 Focused on turning raw business data into actionable insight
@@ -68,7 +65,6 @@
 </tr>
 </table>
 
-@@ -70,27 +82,27 @@
 </p>
 
 <h3 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f5c4_fe0f/512.gif" width="24px" style="vertical-align: middle;"> Database</h3>
@@ -100,7 +96,6 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda" />
 </p>
-@@ -101,6 +113,11 @@
 
 <h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.gif" width="30px" style="vertical-align: middle;"> GitHub Analytics</h2>
 
@@ -112,7 +107,6 @@
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=prerana-s-h&theme=tokyonight&hide_border=true"/>
 </p>
-@@ -109,51 +126,98 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=prerana-s-h&theme=tokyo-night&hide_border=true"/>
 </p>
 
