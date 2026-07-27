@@ -23,7 +23,7 @@
 <tr>
 <td width="60%" valign="top">
 
-```yaml
+```
 name: Prerana S H
 role: Aspiring Data Scientist / Data Analyst
 education: B.Tech in Electronics & Computer Engineering
@@ -35,7 +35,6 @@ currently_building: Retail Sales Intelligence Performance Dashboard
 looking_to_collaborate_on: Data Science / AI projects with real impact
 fun_fact: "Without data, you're just another person with an opinion."
 ```
-
 </td>
 <td width="40%" valign="top" align="center">
 
