@@ -24,16 +24,16 @@
 <td width="60%" valign="top">
 
 ```yaml
-name: Prerana S H
-role: Aspiring Data Scientist / Data Analyst
-education: B.Tech in Electronics & Computer Engineering
-focus:
+Name: Prerana S H
+Role: Aspiring Data Scientist / Data Analyst
+Education: B.Tech in Electronics & Computer Engineering
+Focus:
   - Data Analytics & Business Intelligence
   - Python-based automation & data pipelines
   - Machine Learning & Generative AI (RAG, LLMs)
-currently_building: Retail Sales Intelligence Performance Dashboard
-looking_to_collaborate_on: Data Science / AI projects with real impact
-fun_fact: "Without data, you're just another person with an opinion."
+Currently_building: Retail Sales Intelligence Performance Dashboard
+Looking_to_collaborate_on: Data Science / AI projects with real impact
+Fun_fact: "Without data, you're just another person with an opinion."
 ```
 </td>
 <td width="40%" valign="top" align="center">
