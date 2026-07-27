@@ -23,7 +23,7 @@
 <tr>
 <td width="60%" valign="top">
 
-```
+```yaml
 name: Prerana S H
 role: Aspiring Data Scientist / Data Analyst
 education: B.Tech in Electronics & Computer Engineering
