@@ -141,18 +141,6 @@ A RAG-based chatbot that answers common college queries instantly and accurately
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 📚 Currently Learning
-
-<div align="center">
-
-![Generative AI](https://img.shields.io/badge/-Generative%20AI-000000?style=flat-square)
-![Advanced SQL](https://img.shields.io/badge/-Advanced%20SQL-000000?style=flat-square)
-![Machine Learning](https://img.shields.io/badge/-MLOps-000000?style=flat-square)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 ## 🤝 Let's Connect
 
 <div align="center">
