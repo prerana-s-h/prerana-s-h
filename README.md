@@ -96,23 +96,32 @@ Fun_fact: "Without data, you're just another person with an opinion."
 <td width="70%" valign="top">
 
 ### 📊 [Retail Sales Intelligence Performance](https://github.com/prerana-s-h/retail-sales-intelligence-performance)
-Analyzes retail sales data to surface performance trends and KPIs, packaged into an interactive dashboard for business decision-making.
+Interactive Power BI platform designed for retail sales analysis.
+Visualizes sales performance, product trends, outlet performance, and KPIs.
+Provides interactive dashboards to identify important business insights.
+Supports data-driven decision-making through clear and meaningful visualizations.
 
 `Python` `Pandas` `Power BI` `SQL`
 
 ### ✉️ [AI Email Generator](https://github.com/prerana-s-h/ai-email-generator)
-Generates ready-to-send professional emails from short prompts using generative AI.
-
+AI-based application for generating professional emails.
+Creates personalized email content based on user requirements.
+Helps users save time when writing academic and professional emails.
+Provides a simple and efficient approach to automated email generation.
 `Python` `Generative AI`
 
 ### 📉 [Customer Churn Prediction](https://github.com/prerana-s-h/Customer_Churn_Prediction)
-Predicts which customers are likely to churn, helping businesses act early on retention.
-
+Machine learning project for predicting customer churn.
+Includes data preprocessing, exploratory data analysis, and feature analysis.
+Uses machine learning classification techniques to predict potential churn.
+Helps businesses understand customer behavior and improve retention.
 `Python` `Scikit-learn` `Pandas`
 
 ### 🎓 [AI College FAQ Chatbot](https://github.com/prerana-s-h/ai-college-faq-chatbot)
-A RAG-based chatbot that answers common college queries instantly and accurately.
-
+AI-powered chatbot built to answer college-related queries.
+Uses Retrieval-Augmented Generation (RAG) to retrieve relevant information.
+Provides accurate and context-aware responses to student questions.
+Designed to make accessing college information faster and easier.
 `Python` `RAG` `NLP`
 
 </td>
