@@ -146,9 +146,8 @@ A RAG-based chatbot that answers common college queries instantly and accurately
 <div align="center">
 
 ![Generative AI](https://img.shields.io/badge/-Generative%20AI-000000?style=flat-square)
-![RAG Pipelines](https://img.shields.io/badge/-RAG%20Pipelines-000000?style=flat-square)
 ![Advanced SQL](https://img.shields.io/badge/-Advanced%20SQL-000000?style=flat-square)
-![MLOps](https://img.shields.io/badge/-MLOps-000000?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/-MLOps-000000?style=flat-square)
 
 </div>
 
